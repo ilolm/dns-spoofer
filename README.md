@@ -1,4 +1,4 @@
-# MITM-Code-Injector
+# MITM-DNS-SPOOFER
 
 **DEPENDENCIES:**
 ```
@@ -10,10 +10,10 @@ python3-pip
 
 **INSTALLATION:**
 ```
-git clone https://github.com/ilolm/MITM-code-injector.git
-cd MITM-code-injector
+git clone https://github.com/ilolm/dns-spoofer.git
+cd dnf-spoofer
 pip3 install -r requirements.txt
-chmod +x code_injector.py
+chmod +x dns_spoofer.py
 ```
 
 -------------------------------------------------------

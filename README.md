@@ -1,14 +1,14 @@
 # MITM-DNS-SPOOFER
 
-**DEPENDENCIES:**
+## DEPENDENCIES:
 ```
 python3
 python3-pip
 ```
 
--------------------------------------------------------
+---
 
-**INSTALLATION:**
+## INSTALLATION:
 ```
 git clone https://github.com/ilolm/dns-spoofer.git
 cd dnf-spoofer
@@ -16,9 +16,9 @@ pip3 install -r requirements.txt
 chmod +x dns_spoofer.py
 ```
 
--------------------------------------------------------
+---
 
-**USAGE:**
+## USAGE:
 ```
 Usage: sudo ./dns_spoofer.py [options]
 
